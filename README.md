@@ -1,4 +1,6 @@
 # git-demo
 This is my first git repository.
-<br>
-Author - ananya kansara
+
+# author
+Author - ananya kansara (Computer science student)
+
